@@ -1,6 +1,7 @@
 print('this is a git test')
-print('this is the first change to my program')
+print("In this program you'll enter your name and it will tell you your name")
 
 # Now I'll make a new feature
 
-input('enter your name: ')
+name = input('Enter your name: ')
+print("Your name is: " + name)
